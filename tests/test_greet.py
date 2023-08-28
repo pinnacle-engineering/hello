@@ -1,5 +1,3 @@
-import pytest
-
 from hello.greet import hello
 
 
