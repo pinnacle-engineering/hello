@@ -1,3 +1,5 @@
+"""Greet: communicating with the world"""
+
 def hello(name: str = "World") -> str:
     """Greet the world
 

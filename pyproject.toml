@@ -22,7 +22,9 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: CPython",
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
-dependencies = []
+dependencies = [
+  "mkdocstrings-python",
+]
 
 [project.urls]
 Documentation = "https://github.com/unknown/hello#readme"
